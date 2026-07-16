@@ -5,7 +5,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?logo=scikitlearn)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?logo=plotly)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 An interactive **Streamlit-based Road Accident Analytics Dashboard** that analyzes Indian road accident data (2022–2025) and predicts accident risk using a Machine Learning model.
 
