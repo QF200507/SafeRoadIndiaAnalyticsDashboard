@@ -80,29 +80,10 @@ The predicted risk is displayed using an interactive gauge along with the major 
 # 📂 Dataset
 
 **Source:**
-
-Indian Road Accident Dataset (Kaggle)
-
----
-
-# 📁 Project Structure
-
-```
-SafeRoadIndiaAnalyticsDashboard
-│
-├── app.py
-├── visualization.py
-├── risk_model.pkl
-├── hotspot_map.html
-├── requirements.txt
-├── README.md
-├── screenshots/
-│   ├── dashboard.png
-│   └── predictor.png
-└── Final_accident_dataset.csv
-```
+<a href="https://www.kaggle.com/code/anmolkamboz/indian-road-accidents-2022-2025-eda-insights">Indian Road Accident Dataset (Kaggle)</a>
 
 ---
+
 
 # 🚀 Installation
 
