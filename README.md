@@ -144,7 +144,7 @@ streamlit run app.py
 
 **Shriyans Mohanty**
 
-LinkedIn: *(https://www.linkedin.com/in/shriyans-mohanty-84485a2a4/)*
+LinkedIn: *https://www.linkedin.com/in/shriyans-mohanty-84485a2a4/*
 
 GitHub: https://github.com/QF200507
 
