@@ -10,6 +10,10 @@ An interactive **Streamlit-based Road Accident Analytics Dashboard** that analyz
 
 Developed as part of my **Data Analytics Training at O7 Services, Jalandhar**.
 
+## 🌐 Live Demo
+
+🚀 https://saferoadindiaanalyticsdashboard-gq5nt8emyenjwgyvhqjv4p.streamlit.app/
+
 ---
 
 # 📸 Dashboard Preview
