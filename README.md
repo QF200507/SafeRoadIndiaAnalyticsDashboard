@@ -17,11 +17,11 @@ Developed as part of my **Data Analytics Training at O7 Services, Jalandhar**.
 
 ## Home Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Accident Risk Predictor
 
-![Risk Predictor](screenshots/predictor.png)
+![Risk Predictor](predictor.png)
 
 ---
 
