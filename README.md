@@ -144,9 +144,9 @@ streamlit run app.py
 
 **Shriyans Mohanty**
 
-LinkedIn: *(Add your LinkedIn URL here)*
+LinkedIn: *(https://www.linkedin.com/in/shriyans-mohanty-84485a2a4/)*
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/QF200507
 
 ---
 
