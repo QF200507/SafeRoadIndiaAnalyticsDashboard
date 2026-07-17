@@ -7,3 +7,4 @@ plotly
 scikit-learn
 joblib
 folium
+streamlit_option_menu
